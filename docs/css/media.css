@@ -1,0 +1,240 @@
+@media screen and (max-width: 1448px){
+  .calc-ay .container-ay{
+    width: 60%;
+    justify-content: center;
+  }
+  }
+@media screen and (max-width: 1419px) {
+    .how-ay .container-ay .footing-ay {
+      width: 70%;
+    }
+   }
+
+
+   @media screen and (max-width: 1033px){
+    .boost-ay::after{
+      width: 67%;
+      height: 101%;
+      top: -0.4%;
+      left: 16.6%;
+    }
+    .boost-ay .container-ay .left-ay {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      position: relative;
+  }
+  .boost-ay .container-ay .left-ay .image-ay{
+      display: block;
+      width: 50%;
+      position: relative;
+    }
+    .boost-ay .container-ay .left-ay img.child-ay{
+      width: 70%;
+      height: 80%;
+      position: absolute;
+      bottom: -17%;
+      right: -16%;
+    }
+    /* .boost-ay .container-ay {
+      width: 45%;
+  } */
+    .boost-ay .container-ay .left-ay p{
+      width: 100%;
+      margin-bottom: 5%;
+    }
+    .boost-ay .container-ay .left-ay button{
+      margin-top: 20%;
+    }
+    .boost-ay .container-ay .right-ay{
+      display: none;
+    }
+  }
+   
+
+@media screen and (max-width: 1000px) {
+    .landing-ay .container-ay .logo-ay{
+      position: relative;
+      left: unset;
+      top: unset;
+    }
+  }
+
+  @media screen and (max-width: 1006px) {
+    .landing-ay .container-ay .header-ay p {
+      width: 100%;
+    }
+   }
+
+   
+@media screen and (max-width: 922px) {
+    .why-ay .container-ay .footing-ay{
+        flex-direction: column-reverse;
+        flex-wrap: wrap;
+    }
+    .why-ay .container-ay .footing-ay .left-ay {
+        width: 100%;
+    }
+    .why-ay .container-ay .footing-ay .right-ay{
+    width: 40%;
+    position: relative;
+    }
+ }
+
+ @media screen and (max-width: 990px){
+  .calc-ay .container-ay div {
+    width: 237px;
+  }
+  }
+
+ @media screen and (max-width: 681px) {
+   .landing-ay .container-ay .nav-ay {
+     padding: 8px 11px;
+     width: 485px;
+    }
+    .landing-ay .container-ay .nav-ay button {
+        width: 110px;
+        height: 35px;
+    }
+    .landing-ay .container-ay .nav-ay button::after {
+    padding: 8px 6px;
+    width: 74%;
+    height: 40%;
+    top: 2px;
+    left: 2px;
+    }
+    .landing-ay .container-ay .nav-ay #dash-ay::before {
+    display: none;
+    }
+ }
+
+ @media screen and (max-width: 610px){
+   .landing-ay .container-ay .nav-ay a,
+   .landing-ay .container-ay .nav-ay button {
+    font-size: 11px;
+   }
+   .landing-ay .container-ay .nav-ay button {
+    width: 78px;
+    height: 31px;
+    } 
+    .landing-ay .container-ay .nav-ay {
+        padding: 8px 11px;
+        width: 333px;
+      }
+ }
+
+@media screen and (max-width: 600px) {
+  .faq-ay .container-ay .box-ay .q-ay {
+    padding: 10px 10px;
+  }
+  .faq-ay .container-ay .box-ay .q-ay p {
+    font-size: 18px;
+}
+.faq-ay .container-ay .box-ay .a-ay p {
+  font-size: 13px;
+  line-height: 15px;
+}
+}
+@media screen and (max-width: 577px) {
+  .heading-ay p{
+    font-size: 42px;
+  }
+    .how-ay .container-ay {
+      margin-top: 110px;
+    }
+  }
+
+@media screen and (max-width: 502px) {
+  /* .container-ay {
+    width: 100%;
+} */
+    .boost-ay .container-ay .left-ay p.header-ay {
+      font-size: 20px;
+    }
+    .boost-ay .container-ay .left-ay p.bottom-ay {
+      font-size: 11px;
+    }
+    .boost-ay .container-ay .left-ay button {
+      width: 133px;
+      height: 40px;
+      font-size: 12px;
+    }
+    .heading-ay p {
+      font-size: 32px;
+    }
+    .faq-ay .container-ay .box-ay .q-ay p {
+      font-size: 13px;
+    }
+    .faq-ay .container-ay .box-ay .a-ay p {
+      font-size: 12px;
+      line-height: 14px;
+    }
+    .faq-ay .container-ay .box-ay .q-ay span {
+      width: 30px;
+      height: 30px;
+    } 
+    .faq-ay .container-ay .box-ay {
+      width: 80%;
+    }
+    .calc-ay .container-ay div p.num-ay {
+      font-size: 25px;
+      line-height: 23px;
+    }
+    .calc-ay .container-ay div p.content-ay {
+      font-size: 12px;
+   }
+    .how-ay .container-ay .footing-ay .box-ay .top-ay {
+      font-size: 19px;
+    }
+    .how-ay .container-ay .footing-ay .box-ay .bottom-ay {
+      font-size: 15px;
+    }
+    .how-ay .container-ay .footing-ay .box-ay .icon-ay {
+      padding: 17px;
+    }
+  }
+
+  @media screen and (max-width: 433px){
+    .boost-ay .container-ay .left-ay button{
+      width: 115px;
+   }
+   .landing-ay .container-ay .nav-ay button{
+    display: none;
+  }
+  .landing-ay .nav-ay a.hide-ay{
+    display: inline-block;
+  }
+  .landing-ay .container-ay .nav-ay {
+    flex-direction: column;
+    width: 140px;
+    justify-content: center;
+}
+.landing-ay .container-ay .nav-ay a{
+  margin: 4px;
+  font-size: 12px;
+}
+  }
+
+
+@media screen and (max-width: 380px) {
+  /* .landing-ay .container-ay .nav-ay {
+    padding: 8px 11px;
+    width: 323px;
+    flex-direction: row;
+  } */
+    .landing-ay .container-ay .bottom-ay button {
+    padding: 6px 21px;
+    }
+    .how-ay .container-ay .footing-ay .box-ay {
+    padding: 34px;
+    } 
+    .how-ay .container-ay .footing-ay{
+        width: 100%;
+    }
+    .faq-ay .container-ay .box-ay .q-ay p {
+      font-size: 11px;
+  }
+ }

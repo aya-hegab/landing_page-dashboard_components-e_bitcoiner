@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExpertMiner | addnew</title>
+    <link rel="stylesheet" href="addnew.css">
+    <link rel="stylesheet" href="all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="left">
+                <p class="title">Add new plan</p>
+                <p class="light">Added on: 12 Jan 2022 - 12:00PM</p>
+            </div>
+            <div class="right">
+                <i class="fa-solid fa-xmark"></i>
+            </div>
+        </div>
+        <form action="">
+                <div class="plan-name">
+                    <label for="name">Plan Name</label>
+                    <input type="text" name="plan_name" id="name" value="Lite Miners">
+                </div>
+                <div class="mining-curr">
+                    <label for="type">Mining Currency</label>
+                    <select name="mining_currency" id="type">
+                        <option value="btc">BTC (Bitcoin)</option>
+                        <option value="eth">ETH (Etheruem)</option>
+                    </select>
+                </div>
+                <div class="power">
+                    <label for="power">Power</label>
+                    <input type="text" name="power" id="power">
+                </div>
+                <div class="profit">
+                    <label for="profit">Profitability</label>
+                    <input type="text" name="profit" id="profit">
+                </div>
+                <div class="price">
+                    <label for="price">Price</label>
+                    <input type="text" name="price" id="price" value="500">
+                </div>
+                <div class="b">
+                    <input type="submit" value="Save">
+                </div>
+        </form>
+    </div>
+</body>
+</html>
