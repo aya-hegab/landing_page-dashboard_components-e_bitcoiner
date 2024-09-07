@@ -2,9 +2,11 @@
 
 A platform for cloud mining.
 
+Check the [EBitcoiner](https://aya-hegab.github.io/landing_page-dashboard_components-e_bitcoiner/) landing page.
+
 ## My Responsibility
 
-Converting a figma design of the **landing page** and some **dashboard components** into HTML and CSS.
+Converting a [figma](https://www.figma.com/proto/tFeEyDju1QPmlmnK5GGRHw/Crypto-mining?node-id=949-7346) design of the **landing page** and some **dashboard components** into HTML and CSS.
 
 # User Dashboard Components
 
@@ -47,3 +49,5 @@ Converting a figma design of the **landing page** and some **dashboard component
 [Admin Dashboard](https://github.com/Ahmedsk143/Admin-Dashboard)
 
 [User Dashboard](https://github.com/Ahmedsk143/User-Dashboard)
+
+[Ebitcoiner App](https://drive.google.com/drive/folders/1XUk2HiqGNxfz0ILHkxiSSPkXGXLEPOrx)
